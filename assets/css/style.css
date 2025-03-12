@@ -84,9 +84,9 @@ a.filled-button:hover {
 .page-heading {
 	padding: 210px 0px 130px 0px;
 	text-align: center;
-	background-position: center center;
+	background-position: center center; 
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover; 	 
 }
 
 .page-heading .text-content h4 {
